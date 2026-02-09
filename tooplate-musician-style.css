@@ -709,6 +709,10 @@ section {
     margin-top: 0;  /* Remove the margin-top */
 }
 
+.contact-item.github {
+    flex: 0 0 60%;
+}
+
 /* ===========================================
            About Section
            =========================================== */
